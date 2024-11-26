@@ -37,5 +37,26 @@ Indian small and medium-sized businesses (SMBs) face numerous challenges in ente
 - Hyperledger Fabric (blockchain implementation)
 - Google Cloud Translation API
 
-## Watch the Video
-[![AmazTrade Suite](https://i.ytimg.com/an_webp/p7AlVEDbybA/mqdefault_6s.webp?du=3000&sqp=CIDhiLoG&rs=AOn4CLAdS8tHLwekDD_0CcmmtM-iYY0qFQ)](https://www.youtube.com/watch?v=p7AlVEDbybA)
+## Watch the Video (Edited since wrong video is given)
+[![AmazTrade Suite]([https://i.ytimg.com/an_webp/p7AlVEDbybA/mqdefault_6s.webp?du=3000&sqp=CIDhiLoG&rs=AOn4CLAdS8tHLwekDD_0CcmmtM-iYY0qFQ)](https://www.youtube.com/watch?v=p7AlVEDbybA](https://www.loom.com/share/94b08029e0254fa2b852cc61db949276?sid=37b52362-d4a9-48c3-8d9f-a5ecd853e5ad))
+
+(**Edited since installation instruction was wrong**)
+## Installation
+*Frontend*
+Steps to start the web app:-
+1. git clone https://github.com/THUNDERBLD/Amazon_hackathon.git
+2. cd Amazon_hackathon
+3. cd Amazon_hackathon
+4. npm install
+5. npm run dev
+
+*Backend*
+Steps to start the web app:-
+1. git clone https://github.com/THUNDERBLD/Amazon_hackathon.git
+2. cd Amazon_hackathon
+3. cd Amazon_Hackathon_Backend
+4. npm install
+5. mkdir .env
+6. set up the environment variables
+7. npm run nodemon
+
