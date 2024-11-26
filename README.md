@@ -38,7 +38,7 @@ Indian small and medium-sized businesses (SMBs) face numerous challenges in ente
 - Google Cloud Translation API
 
 ## Watch the Video (Edited since wrong video is given)
-[![AmazTrade Suite]([https://i.ytimg.com/an_webp/p7AlVEDbybA/mqdefault_6s.webp?du=3000&sqp=CIDhiLoG&rs=AOn4CLAdS8tHLwekDD_0CcmmtM-iYY0qFQ)](https://www.youtube.com/watch?v=p7AlVEDbybA](https://www.loom.com/share/94b08029e0254fa2b852cc61db949276?sid=37b52362-d4a9-48c3-8d9f-a5ecd853e5ad))
+https://www.loom.com/share/94b08029e0254fa2b852cc61db949276?sid=37b52362-d4a9-48c3-8d9f-a5ecd853e5ad
 
 (**Edited since installation instruction was wrong**)
 ## Installation
