@@ -22,7 +22,7 @@ function Docs() {
           paddingRight: "4rem", // Ensures button stays on the right side
         }}
       >
-        <h1 style={{ fontSize: "1.25rem", fontWeight: "bold" }}>Active Delivery Request</h1>
+        <h1 style={{ fontSize: "1.25rem", fontWeight: "bold", color : "#000000" }}>Active Delivery Request</h1>
         
         {/* Upload Documents Button */}
         <Button
