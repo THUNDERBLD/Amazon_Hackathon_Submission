@@ -33,7 +33,7 @@ function Dashboard() {
           paddingLeft: "4rem",
         }}
       >
-        <h1 style={{ fontSize: "1.25rem", fontWeight: "bold" }}>Dashboard</h1>
+        <h1 style={{ fontSize: "1.25rem", fontWeight: "bold", color : "#000000" }}>Dashboard</h1>
       </div>
 
       {/* Rectangles */}

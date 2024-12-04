@@ -136,6 +136,15 @@ const Agents = () => {
       }}>
         Millions of Vendors at One Simple Search
       </div>
+      <div className="text-black flex justify-end mx-24">
+          <button type="button"
+              className="bg-blue-500 mx-2 translate-y-1 px-4 py-2 rounded-lg text-white">
+          <a href="https://cleartax.in/s/gst-hsn-lookup" target="_blank">
+            Find SHN
+          </a>
+        </button>
+      </div>
+
 
       {/* Interactive Form */}
       <div style={{ position: "relative", color : "#000000", }}>
@@ -232,14 +241,26 @@ const Agents = () => {
             placeholder="Enter quantity..."
             style={commonStyle}
           />
-
+          <div className="absolute text-[12px] translate-x-[112px] -translate-y-[30px]">PickUp Date</div>
           <input
             type="date"
             value={date}
             onChange={(e) => setDate(e.target.value)}
             style={commonStyle}
           />
-
+          <div className="absolute text-[12px] translate-x-[264px] -translate-y-[30px]">Delivery Date</div>
+          <input
+            type="date"
+            value={date}
+            onChange={(e) => setDate(e.target.value)}
+            style={commonStyle}
+          />
+          <input
+              type="SHN Code"
+              // onChange={handleFromLocationChange}
+              placeholder="SHN Code"
+              style={commonStyle}
+            />
           <button
             type="submit"
             style={{

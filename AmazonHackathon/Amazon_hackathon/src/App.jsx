@@ -11,6 +11,7 @@ import CarbonQuest from './pages/CarbonQuest.jsx';
 import LoginPage from './pages/LoginPage.jsx';
 import ChatInterface from './pages/ChatInterface.jsx';
 import RegisterPage from './pages/RegisterPage.jsx';
+import HelpPage from './pages/HelpPage.jsx';
 
 const pageVariants = {
   initial: { x: '100%', opacity: 0 },
@@ -150,6 +151,20 @@ function AnimatedRoutes() {
               transition={{ duration: 0.5 }}
             >
               <Agents />
+            </motion.div>
+          }
+        />
+        <Route
+          path="/Help-Page"
+          element={
+            <motion.div
+              initial="initial"
+              animate="animate"
+              exit="exit"
+              variants={pageVariants}
+              transition={{ duration: 0.5 }}
+            >
+              <HelpPage />
             </motion.div>
           }
         />
